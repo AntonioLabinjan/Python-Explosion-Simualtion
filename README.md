@@ -1,4 +1,4 @@
-# Python-Explosion-Simualtion# Explosion Simulation
+# Python-Explosion-Simualtion
 
 This Python project represents a simulation of an explosion's propagation in a two-dimensional grid. The project demonstrates how the propagation of an explosion can be modeled and visualized using simple physics principles.
 
